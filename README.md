@@ -1,24 +1,36 @@
-🌐 Site Pessoal - Projeto Acadêmico
-Este repositório contém o desenvolvimento de um site pessoal completo, proposto como atividade prática da disciplina de Desenvolvimento Web, no curso de Engenharia de Software.
+# 🌐 Site Pessoal - Projeto Acadêmico
 
-📋 Descrição do Projeto
-O objetivo do projeto foi criar um site funcional e hospedá-lo em um servidor gratuito, seguindo os requisitos estabelecidos pela disciplina. O foco esteve na aplicação prática de HTML e CSS puros, sem o uso de frameworks como Bootstrap. Todas as páginas compartilham um menu de navegação fixo, garantindo a experiência do usuário sem a necessidade de utilizar o botão "voltar" do navegador.
+Este repositório apresenta o desenvolvimento de um **site pessoal completo**, criado como atividade prática da disciplina de **Desenvolvimento Web** no curso de **Engenharia de Software**.
 
-✅ Funcionalidades e Estrutura
-O site é composto por quatro páginas principais, acessíveis através de um menu visível em todas elas:
+---
 
-Sobre Mim: Página onde apresento um pouco da minha história, interesses e hobbies.
+## 📋 Descrição do Projeto
 
-Formação e Idiomas: Informações sobre minha trajetória educacional, cursos e idiomas que estou aprendendo ou já domino.
+O objetivo foi construir um site funcional e hospedá-lo gratuitamente, aplicando **HTML5** e **CSS3 puro**, **sem o uso de frameworks** como Bootstrap.  
+Todas as páginas compartilham um **menu de navegação fixo**, proporcionando uma navegação fluida sem a necessidade de usar o botão "voltar" do navegador.
 
-Portfólio: Espaço reservado para mostrar trabalhos desenvolvidos durante o curso e projetos pessoais, com links para outros sites ou repositórios relevantes.
+---
 
-Contato: Formulário visual com campos de entrada (nome, e-mail, mensagem), demonstrando habilidades em estruturação de formulários com HTML e estilização com CSS.
+## ✅ Funcionalidades e Estrutura
 
-🛠️ Tecnologias Utilizadas
-HTML5
+O site é composto por **quatro páginas principais**, acessíveis através do menu:
 
-CSS3 (sem uso de frameworks externos)
+- **👤 Sobre Mim:** Informações pessoais, hobbies e interesses.
+- **🎓 Formação e Idiomas:** Trajetória educacional e idiomas estudados.
+- **🖼️ Portfólio:** Projetos desenvolvidos no curso ou por iniciativa própria.
+- **📬 Contato:** Formulário com campos de nome, e-mail e mensagem.
 
-💬 Comentários no Código
-O código fonte contém comentários explicativos, com o propósito de demonstrar a lógica por trás das principais implementações, tornando o repositório útil para revisão e aprendizado.
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5  
+- CSS3 (sem frameworks externos)
+
+---
+
+## 💬 Comentários no Código
+
+O código está comentado de forma clara e objetiva, explicando a lógica por trás das principais seções, visando facilitar o entendimento e aprendizado.
+
+---
